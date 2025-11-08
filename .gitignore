@@ -1,0 +1,16 @@
+# UiPath-specific folders
+.local/
+.screenshots/
+.settings/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Packages and dependencies
+project.json.backup
+*.nupkg
+
+# Windows-specific
+Thumbs.db
+Desktop.ini
