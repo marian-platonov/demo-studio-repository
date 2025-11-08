@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QWiCunrMEUm-ykWY9aGFnQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="897041fc-6e78-4f52-a1c4-9d64c778bf66" CvElementArea="470, 410, 352, 34" CvType="InputBox" DesignTimeRectangle="470, 410, 352, 34" ElementType="InputBox" ElementVisibilityArgument="Interactive" Guid="1d63cf05-b10a-424f-9323-fb1ca7a16b84" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='Omnissa Horizon Client' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="897041fc-6e78-4f52-a1c4-9d64c778bf66" CvTextArea="480, 420, 68, 13" CvTextArgument="User name" CvType="Text" DesignTimeRectangle="480, 420, 68, 13" ElementType="Text" Guid="af4bc277-ff95-4690-a78a-d1ec92a13a87" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8a00f0d49bd549ffeb8b85f5befa0a59.png" xmlns="">0pJ84ZMgIhEK08Q7Ug5i35w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

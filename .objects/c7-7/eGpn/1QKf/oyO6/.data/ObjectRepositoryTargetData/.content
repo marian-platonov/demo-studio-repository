@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3Tsuop6FREiZWGZQhYZhBg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="46b6c0de-b2ed-4ad3-9859-8e08b151ec68" CvElementArea="472, 410, 348, 34" CvType="InputBox" DesignTimeRectangle="470, 411, 350, 32" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;ctrl name='User name' role='editable text' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' /&gt;" Guid="65e4e46c-3612-4a70-8a72-548b2cca3088" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='Omnissa Horizon Client' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="46b6c0de-b2ed-4ad3-9859-8e08b151ec68" CvTextArea="469, 381, 269, 16" CvTextArgument="Enter your Radius user name and passcode." CvType="Text" DesignTimeRectangle="470, 378, 350, 19" ElementType="Text" FullSelectorArgument="&lt;ctrl name='Enter your Radius user name and passcode.' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Enter your Radius user name and passcode.' role='text' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Enter your Radius user name and passcode.' /&gt;" Guid="cd4fb39f-fc5b-4de4-8db5-f3414edf7ee5" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f5fa0d13c0de2696e2957e1090037fe3.png" xmlns="">0XcXLbxufEk6lMz3joMtdZA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

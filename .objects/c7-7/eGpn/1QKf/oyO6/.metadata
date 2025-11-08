@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Enter your Radius user …",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "oyO61P7KF0a57_8BMKL5yg",
+  "Reference": "ztngqvU3UE2Iz_95zX4Pig/oyO61P7KF0a57_8BMKL5yg",
+  "ParentRef": "ztngqvU3UE2Iz_95zX4Pig/1QKfyyuY6UCViA6_jtOqfQ",
+  "Created": "2025-11-08T00:00:13.3939276Z",
+  "Updated": "2025-11-08T00:00:13.3939276Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
