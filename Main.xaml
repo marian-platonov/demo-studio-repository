@@ -92,13 +92,13 @@
       <AssemblyReference>System.Windows.Forms</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="1197,1262" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="1533,1262" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:SetToClipboard DisplayName="Set To Clipboard" sap:VirtualizedContainerService.HintSize="554,92" sap2010:WorkflowViewState.IdRef="SetToClipboard_1" Text="Marian" />
+    <ui:SetToClipboard DisplayName="Set To Clipboard activity" sap:VirtualizedContainerService.HintSize="554,92" sap2010:WorkflowViewState.IdRef="SetToClipboard_1" Text="Marian" />
     <uix:NApplicationCard AttachMode="ByInstance" DisplayName="new 342 - Notepad++" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="554,1147" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" ScopeGuid="731c9204-4970-48fb-828c-ac985d74bc92" Version="V2">
       <uix:NApplicationCard.Body>
         <ActivityAction x:TypeArguments="x:Object">
@@ -123,7 +123,7 @@
                     <uix:NTypeInto.Target>
                       <uix:TargetAnchorable CVScreenId="46b6c0de-b2ed-4ad3-9859-8e08b151ec68" ContentHash="3Tsuop6FREiZWGZQhYZhBg" CvElementArea="472, 410, 348, 34" CvType="InputBox" DesignTimeRectangle="470, 411, 350, 32" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;ctrl name='User name' role='editable text' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' /&gt;" Guid="65e4e46c-3612-4a70-8a72-548b2cca3088" InformativeScreenshot="f5fa0d13c0de2696e2957e1090037fe3.png" IsResponsive="True" Reference="ztngqvU3UE2Iz_95zX4Pig/oyO61P7KF0a57_8BMKL5yg" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='Omnissa Horizon Client' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
                         <uix:TargetAnchorable.Anchors>
-                          <scg:List x:TypeArguments="uix:ITarget" Capacity="4">
+                          <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
                             <uix:Target CVScreenId="46b6c0de-b2ed-4ad3-9859-8e08b151ec68" CvTextArea="469, 381, 269, 16" CvTextArgument="Enter your Radius user name and passcode." CvType="Text" DesignTimeRectangle="470, 378, 350, 19" ElementType="Text" FullSelectorArgument="&lt;ctrl name='Enter your Radius user name and passcode.' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Enter your Radius user name and passcode.' role='text' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Enter your Radius user name and passcode.' /&gt;" Guid="cd4fb39f-fc5b-4de4-8db5-f3414edf7ee5" SearchSteps="Selector, FuzzySelector, CV" />
                           </scg:List>
                         </uix:TargetAnchorable.Anchors>
@@ -142,7 +142,7 @@
               <uix:NClick.Target>
                 <uix:TargetAnchorable CVScreenId="897041fc-6e78-4f52-a1c4-9d64c778bf66" ContentHash="QWiCunrMEUm-ykWY9aGFnQ" CvElementArea="470, 410, 352, 34" CvType="InputBox" DesignTimeRectangle="470, 410, 352, 34" ElementType="InputBox" ElementVisibilityArgument="Interactive" Guid="1d63cf05-b10a-424f-9323-fb1ca7a16b84" InformativeScreenshot="8a00f0d49bd549ffeb8b85f5befa0a59.png" Reference="ztngqvU3UE2Iz_95zX4Pig/QSYeXnMiSkunFyRcL9qVyQ" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='Omnissa Horizon Client' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" WaitForReadyArgument="Interactive">
                   <uix:TargetAnchorable.Anchors>
-                    <scg:List x:TypeArguments="uix:ITarget" Capacity="4">
+                    <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
                       <uix:Target CVScreenId="897041fc-6e78-4f52-a1c4-9d64c778bf66" CvTextArea="480, 420, 68, 13" CvTextArgument="User name" CvType="Text" DesignTimeRectangle="480, 420, 68, 13" ElementType="Text" Guid="af4bc277-ff95-4690-a78a-d1ec92a13a87" SearchSteps="CV" TargetType="ComputerVisionBased" />
                     </scg:List>
                   </uix:TargetAnchorable.Anchors>
